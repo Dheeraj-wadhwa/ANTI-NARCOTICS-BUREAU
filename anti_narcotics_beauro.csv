@@ -1,0 +1,501 @@
+Case_ID,Seizure_Date,State,City,Drug_Type,Quantity_kg,Estimated_Value_INR,Arrests_Made,Operation_Type,Agency,Case_Status,Officer_Rank
+ANB0001,1/2/2024,Delhi,New Delhi,Cocaine,83,26466293,3,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0002,1/3/2024,West Bengal,Kolkata,Heroin,35,15764140,7,Intelligence Based,Joint Task Force,Open,Superintendent
+ANB0003,1/4/2024,Karnataka,Bengaluru,Charas,182,86978528,1,Checkpoint,ANB,Open,Inspector
+ANB0004,1/5/2024,Karnataka,Bengaluru,Cocaine,189,74290608,5,Raid,Joint Task Force,Open,Inspector
+ANB0005,1/6/2024,Delhi,New Delhi,Ganja,183,69996219,1,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0006,1/7/2024,West Bengal,Kolkata,MDMA,185,76957410,4,Checkpoint,Joint Task Force,Closed,Deputy Commissioner
+ANB0007,1/8/2024,Odisha,Bhubaneswar,Opium,73,23906551,1,Intelligence Based,ANB,Open,Superintendent
+ANB0008,1/9/2024,West Bengal,Kolkata,Heroin,176,82574096,4,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0009,1/10/2024,West Bengal,Kolkata,Cocaine,180,68921460,3,Intelligence Based,Joint Task Force,Closed,Superintendent
+ANB0010,1/11/2024,Gujarat,Surat,Charas,53,22672340,7,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0011,1/12/2024,Karnataka,Bengaluru,MDMA,99,32809590,6,Intelligence Based,ANB,Open,Inspector
+ANB0012,1/13/2024,West Bengal,Kolkata,Cocaine,28,11349268,8,Checkpoint,ANB,Closed,Superintendent
+ANB0013,1/14/2024,West Bengal,Kolkata,Charas,35,13153070,8,Checkpoint,ANB,Closed,Inspector
+ANB0014,1/15/2024,Punjab,Ludhiana,Opium,65,32296420,4,Intelligence Based,ANB,Open,Inspector
+ANB0015,1/16/2024,West Bengal,Kolkata,Ganja,140,43641780,5,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0016,1/17/2024,Assam,Guwahati,Ganja,92,28862608,4,Raid,ANB,Closed,Inspector
+ANB0017,1/18/2024,Uttar Pradesh,Noida,Opium,95,30058570,3,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0018,1/19/2024,Maharashtra,Pune,MDMA,200,66231600,2,Raid,ANB,Open,Superintendent
+ANB0019,1/20/2024,Bihar,Patna,MDMA,85,28004100,3,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0020,1/21/2024,Telangana,Hyderabad,Ganja,47,17296799,2,Checkpoint,ANB,Open,Inspector
+ANB0021,1/22/2024,Bihar,Patna,Opium,102,31970370,6,Intelligence Based,ANB,Open,Superintendent
+ANB0022,1/23/2024,Tamil Nadu,Chennai,Charas,56,25490584,5,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0023,1/24/2024,Uttar Pradesh,Noida,Charas,176,61651392,7,Raid,ANB,Closed,Deputy Commissioner
+ANB0024,1/25/2024,Odisha,Bhubaneswar,Heroin,129,53638071,1,Raid,ANB,Closed,Deputy Commissioner
+ANB0025,1/26/2024,Delhi,New Delhi,Opium,149,67026905,2,Raid,Joint Task Force,Closed,Superintendent
+ANB0026,1/27/2024,West Bengal,Kolkata,MDMA,43,13199237,8,Checkpoint,Joint Task Force,Closed,Superintendent
+ANB0027,1/28/2024,Telangana,Hyderabad,Charas,71,35457187,4,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0028,1/29/2024,Delhi,New Delhi,Charas,199,74814249,6,Raid,Joint Task Force,Open,Inspector
+ANB0029,1/30/2024,Tamil Nadu,Chennai,Ganja,117,47725236,1,Checkpoint,Joint Task Force,Closed,Superintendent
+ANB0030,1/31/2024,Uttar Pradesh,Noida,Heroin,25,10381600,4,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0031,2/1/2024,Uttar Pradesh,Noida,Cocaine,115,38909215,3,Raid,Joint Task Force,Open,Deputy Commissioner
+ANB0032,2/2/2024,Maharashtra,Mumbai,Ganja,175,75888050,4,Raid,Joint Task Force,Closed,Superintendent
+ANB0033,2/3/2024,Gujarat,Surat,Charas,54,22415670,3,Intelligence Based,Joint Task Force,Closed,Inspector
+ANB0034,2/4/2024,Uttar Pradesh,Noida,Ganja,111,41731005,8,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0035,2/5/2024,Rajasthan,Udaipur,Opium,107,41128767,4,Raid,Joint Task Force,Open,Superintendent
+ANB0036,2/6/2024,Bihar,Patna,Charas,47,21279109,1,Checkpoint,ANB,Open,Inspector
+ANB0037,2/7/2024,Telangana,Hyderabad,Charas,159,66271995,3,Intelligence Based,ANB,Open,Superintendent
+ANB0038,2/8/2024,Telangana,Hyderabad,Charas,45,16670790,5,Intelligence Based,Joint Task Force,Closed,Superintendent
+ANB0039,2/9/2024,Uttar Pradesh,Lucknow,Ganja,7,3207407,5,Intelligence Based,Joint Task Force,Closed,Inspector
+ANB0040,2/10/2024,Punjab,Ludhiana,Opium,25,11625775,4,Checkpoint,Joint Task Force,Closed,Deputy Commissioner
+ANB0041,2/11/2024,West Bengal,Kolkata,Cocaine,50,20745500,8,Intelligence Based,ANB,Closed,Inspector
+ANB0042,2/12/2024,Tamil Nadu,Chennai,Ganja,143,49596118,1,Checkpoint,Joint Task Force,Open,Inspector
+ANB0043,2/13/2024,Delhi,New Delhi,MDMA,55,20058335,4,Checkpoint,ANB,Closed,Inspector
+ANB0044,2/14/2024,Karnataka,Bengaluru,MDMA,70,32336220,4,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0045,2/15/2024,Gujarat,Ahmedabad,Ganja,180,81081180,5,Raid,ANB,Open,Deputy Commissioner
+ANB0046,2/16/2024,Maharashtra,Pune,MDMA,14,4683882,8,Checkpoint,Joint Task Force,Open,Inspector
+ANB0047,2/17/2024,Tamil Nadu,Chennai,Heroin,127,53724302,8,Checkpoint,ANB,Closed,Superintendent
+ANB0048,2/18/2024,Tamil Nadu,Chennai,Heroin,132,55235664,6,Intelligence Based,ANB,Open,Inspector
+ANB0049,2/19/2024,Madhya Pradesh,Indore,MDMA,151,53203038,5,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0050,2/20/2024,Rajasthan,Jaipur,Charas,21,7980588,4,Intelligence Based,ANB,Closed,Superintendent
+ANB0051,2/21/2024,Punjab,Amritsar,Charas,150,61713900,2,Checkpoint,Joint Task Force,Closed,Superintendent
+ANB0052,2/22/2024,West Bengal,Kolkata,Charas,19,6754975,5,Intelligence Based,Joint Task Force,Open,Inspector
+ANB0053,2/23/2024,Tamil Nadu,Chennai,Cocaine,63,22803543,8,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0054,2/24/2024,Maharashtra,Pune,Cocaine,91,37236199,8,Raid,ANB,Open,Deputy Commissioner
+ANB0055,2/25/2024,Gujarat,Surat,MDMA,100,34030500,6,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0056,2/26/2024,Uttar Pradesh,Noida,Ganja,73,32845547,2,Raid,ANB,Closed,Deputy Commissioner
+ANB0057,2/27/2024,Assam,Guwahati,Opium,86,40322820,1,Raid,ANB,Open,Inspector
+ANB0058,2/28/2024,Maharashtra,Mumbai,Opium,22,8470638,8,Checkpoint,ANB,Open,Superintendent
+ANB0059,2/29/2024,Tamil Nadu,Chennai,Opium,189,72461655,4,Intelligence Based,ANB,Closed,Inspector
+ANB0060,3/1/2024,Assam,Guwahati,Opium,148,45897168,6,Raid,Joint Task Force,Closed,Superintendent
+ANB0061,3/2/2024,West Bengal,Kolkata,Heroin,100,40705800,4,Intelligence Based,ANB,Open,Deputy Commissioner
+ANB0062,3/3/2024,Odisha,Bhubaneswar,MDMA,187,84341862,6,Raid,ANB,Closed,Deputy Commissioner
+ANB0063,3/4/2024,Uttar Pradesh,Noida,Heroin,78,33693504,2,Checkpoint,Joint Task Force,Closed,Deputy Commissioner
+ANB0064,3/5/2024,Maharashtra,Mumbai,Opium,190,71618790,4,Raid,ANB,Closed,Deputy Commissioner
+ANB0065,3/6/2024,Odisha,Bhubaneswar,Cocaine,9,3386016,3,Raid,ANB,Closed,Inspector
+ANB0066,3/7/2024,Madhya Pradesh,Indore,Charas,147,60040533,7,Raid,Joint Task Force,Open,Inspector
+ANB0067,3/8/2024,Assam,Guwahati,MDMA,9,3009015,1,Intelligence Based,ANB,Open,Deputy Commissioner
+ANB0068,3/9/2024,Delhi,New Delhi,Heroin,47,14625836,6,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0069,3/10/2024,Tamil Nadu,Chennai,Opium,70,31981460,2,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0070,3/11/2024,Gujarat,Ahmedabad,Heroin,36,17598132,4,Raid,Joint Task Force,Closed,Inspector
+ANB0071,3/12/2024,Uttar Pradesh,Lucknow,MDMA,118,43987922,1,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0072,3/13/2024,Assam,Guwahati,Heroin,149,61007901,6,Intelligence Based,ANB,Open,Superintendent
+ANB0073,3/14/2024,Uttar Pradesh,Lucknow,MDMA,10,4993230,8,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0074,3/15/2024,Odisha,Bhubaneswar,Heroin,68,29388036,6,Checkpoint,ANB,Open,Superintendent
+ANB0075,3/16/2024,Karnataka,Bengaluru,MDMA,168,54297936,1,Intelligence Based,Joint Task Force,Closed,Superintendent
+ANB0076,3/17/2024,Madhya Pradesh,Indore,MDMA,179,74716211,3,Checkpoint,ANB,Closed,Superintendent
+ANB0077,3/18/2024,West Bengal,Kolkata,Ganja,103,34238436,2,Raid,ANB,Closed,Deputy Commissioner
+ANB0078,3/19/2024,Punjab,Ludhiana,Charas,23,9209614,7,Raid,ANB,Closed,Superintendent
+ANB0079,3/20/2024,Bihar,Patna,Opium,147,70058583,4,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0080,3/21/2024,Karnataka,Bengaluru,Cocaine,162,74917872,2,Checkpoint,ANB,Open,Inspector
+ANB0081,3/22/2024,Gujarat,Surat,MDMA,156,53632020,7,Raid,ANB,Closed,Deputy Commissioner
+ANB0082,3/23/2024,Karnataka,Bengaluru,Cocaine,54,26853390,2,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0083,3/24/2024,West Bengal,Kolkata,Opium,103,36581686,4,Intelligence Based,ANB,Closed,Inspector
+ANB0084,3/25/2024,Delhi,New Delhi,Heroin,12,3929100,6,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0085,3/26/2024,Madhya Pradesh,Indore,Ganja,125,61844250,1,Raid,Joint Task Force,Closed,Superintendent
+ANB0086,3/27/2024,Maharashtra,Pune,Ganja,133,52211411,2,Raid,Joint Task Force,Open,Superintendent
+ANB0087,3/28/2024,Kerala,Kochi,Charas,29,12860021,4,Raid,Joint Task Force,Open,Inspector
+ANB0088,3/29/2024,Karnataka,Bengaluru,Opium,22,6844530,3,Raid,Joint Task Force,Closed,Inspector
+ANB0089,3/30/2024,Punjab,Ludhiana,MDMA,56,19542264,5,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0090,3/31/2024,Karnataka,Bengaluru,MDMA,62,30544734,1,Checkpoint,ANB,Closed,Inspector
+ANB0091,4/1/2024,Uttar Pradesh,Lucknow,Opium,126,43320186,8,Raid,Joint Task Force,Open,Inspector
+ANB0092,4/2/2024,Rajasthan,Udaipur,Charas,26,11693240,5,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0093,4/3/2024,Telangana,Hyderabad,MDMA,35,13838510,4,Raid,Joint Task Force,Open,Deputy Commissioner
+ANB0094,4/4/2024,Punjab,Ludhiana,Heroin,17,8099259,5,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0095,4/5/2024,Gujarat,Surat,Opium,31,14563397,4,Intelligence Based,Joint Task Force,Closed,Superintendent
+ANB0096,4/6/2024,Karnataka,Bengaluru,Charas,6,2115234,3,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0097,4/7/2024,Gujarat,Ahmedabad,Cocaine,159,55386378,7,Checkpoint,Joint Task Force,Open,Inspector
+ANB0098,4/8/2024,Gujarat,Ahmedabad,Opium,21,8612163,1,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0099,4/9/2024,Bihar,Patna,Opium,199,79676615,1,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0100,4/10/2024,Karnataka,Bengaluru,Opium,43,16860257,5,Raid,Joint Task Force,Open,Superintendent
+ANB0101,4/11/2024,Assam,Guwahati,Ganja,53,16740103,1,Checkpoint,Joint Task Force,Open,Inspector
+ANB0102,4/12/2024,Punjab,Amritsar,Cocaine,120,49546920,7,Intelligence Based,ANB,Open,Superintendent
+ANB0103,4/13/2024,Maharashtra,Mumbai,MDMA,126,56941668,5,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0104,4/14/2024,Rajasthan,Udaipur,Ganja,57,26363184,8,Intelligence Based,Joint Task Force,Closed,Inspector
+ANB0105,4/15/2024,Gujarat,Ahmedabad,Opium,63,27218079,8,Checkpoint,Joint Task Force,Open,Inspector
+ANB0106,4/16/2024,Gujarat,Surat,Cocaine,30,13560720,2,Checkpoint,Joint Task Force,Open,Deputy Commissioner
+ANB0107,4/17/2024,Bihar,Patna,Cocaine,101,38010744,2,Raid,Joint Task Force,Closed,Superintendent
+ANB0108,4/18/2024,West Bengal,Kolkata,Cocaine,167,67164728,7,Raid,ANB,Closed,Deputy Commissioner
+ANB0109,4/19/2024,Kerala,Kochi,Cocaine,44,15201296,6,Intelligence Based,ANB,Open,Superintendent
+ANB0110,4/20/2024,Punjab,Ludhiana,Heroin,188,68486332,6,Intelligence Based,ANB,Open,Deputy Commissioner
+ANB0111,4/21/2024,West Bengal,Kolkata,Ganja,17,7012551,3,Intelligence Based,ANB,Open,Superintendent
+ANB0112,4/22/2024,Gujarat,Ahmedabad,Ganja,171,74609010,6,Intelligence Based,Joint Task Force,Open,Inspector
+ANB0113,4/23/2024,Kerala,Kochi,Charas,171,59146506,6,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0114,4/24/2024,Telangana,Hyderabad,Heroin,26,11306152,8,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0115,4/25/2024,Karnataka,Bengaluru,Heroin,17,8383890,3,Raid,ANB,Open,Deputy Commissioner
+ANB0116,4/26/2024,Bihar,Patna,Opium,11,4828010,4,Intelligence Based,ANB,Open,Deputy Commissioner
+ANB0117,4/27/2024,Delhi,New Delhi,Cocaine,57,24386652,6,Raid,Joint Task Force,Open,Inspector
+ANB0118,4/28/2024,Gujarat,Ahmedabad,Cocaine,13,4436861,2,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0119,4/29/2024,Madhya Pradesh,Indore,Ganja,129,40191111,6,Checkpoint,ANB,Open,Superintendent
+ANB0120,4/30/2024,Rajasthan,Jaipur,Opium,33,15914811,2,Checkpoint,Joint Task Force,Closed,Deputy Commissioner
+ANB0121,5/1/2024,Madhya Pradesh,Indore,Heroin,196,94242092,2,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0122,5/2/2024,Gujarat,Surat,MDMA,10,4309840,6,Checkpoint,ANB,Closed,Inspector
+ANB0123,5/3/2024,Odisha,Bhubaneswar,MDMA,108,52357536,2,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0124,5/4/2024,Delhi,New Delhi,Ganja,158,61918146,8,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0125,5/5/2024,Odisha,Bhubaneswar,Charas,82,39350406,3,Intelligence Based,Joint Task Force,Closed,Superintendent
+ANB0126,5/6/2024,Maharashtra,Pune,Charas,102,42311640,6,Intelligence Based,ANB,Closed,Superintendent
+ANB0127,5/7/2024,Punjab,Ludhiana,Cocaine,76,33047004,3,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0128,5/8/2024,Tamil Nadu,Chennai,Cocaine,175,53030250,6,Raid,ANB,Closed,Deputy Commissioner
+ANB0129,5/9/2024,Rajasthan,Jaipur,Cocaine,47,17593886,3,Intelligence Based,Joint Task Force,Open,Superintendent
+ANB0130,5/10/2024,Telangana,Hyderabad,Ganja,98,39583376,3,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0131,5/11/2024,Kerala,Kochi,Charas,41,16499097,3,Intelligence Based,ANB,Open,Inspector
+ANB0132,5/12/2024,Assam,Guwahati,Cocaine,171,68596992,5,Raid,Joint Task Force,Open,Superintendent
+ANB0133,5/13/2024,Delhi,New Delhi,Charas,46,14760756,5,Checkpoint,Joint Task Force,Closed,Superintendent
+ANB0134,5/14/2024,Uttar Pradesh,Lucknow,Ganja,66,26546916,6,Raid,Joint Task Force,Closed,Inspector
+ANB0135,5/15/2024,Uttar Pradesh,Lucknow,Cocaine,156,62557716,4,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0136,5/16/2024,Kerala,Kochi,Ganja,35,11049010,2,Raid,ANB,Open,Deputy Commissioner
+ANB0137,5/17/2024,Kerala,Kochi,Opium,123,57291678,6,Intelligence Based,ANB,Closed,Superintendent
+ANB0138,5/18/2024,Karnataka,Bengaluru,Cocaine,103,33091119,5,Checkpoint,Joint Task Force,Open,Deputy Commissioner
+ANB0139,5/19/2024,Assam,Guwahati,Heroin,52,21542976,5,Checkpoint,Joint Task Force,Open,Deputy Commissioner
+ANB0140,5/20/2024,Uttar Pradesh,Lucknow,Ganja,68,28216600,2,Raid,ANB,Closed,Inspector
+ANB0141,5/21/2024,Madhya Pradesh,Indore,Heroin,42,20383062,8,Raid,Joint Task Force,Open,Inspector
+ANB0142,5/22/2024,Assam,Guwahati,Cocaine,190,79730840,6,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0143,5/23/2024,Odisha,Bhubaneswar,Ganja,106,40778200,4,Raid,ANB,Open,Deputy Commissioner
+ANB0144,5/24/2024,Punjab,Amritsar,MDMA,183,77276508,2,Checkpoint,Joint Task Force,Closed,Deputy Commissioner
+ANB0145,5/25/2024,Punjab,Amritsar,Ganja,191,79776307,5,Intelligence Based,Joint Task Force,Open,Inspector
+ANB0146,5/26/2024,Uttar Pradesh,Lucknow,Cocaine,47,17184563,8,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0147,5/27/2024,Rajasthan,Udaipur,Charas,140,49940520,5,Checkpoint,ANB,Open,Superintendent
+ANB0148,5/28/2024,Kerala,Kochi,MDMA,141,49287114,8,Raid,ANB,Open,Superintendent
+ANB0149,5/29/2024,Uttar Pradesh,Noida,Ganja,34,10514228,1,Checkpoint,Joint Task Force,Open,Inspector
+ANB0150,5/30/2024,Tamil Nadu,Chennai,Ganja,86,38019568,7,Intelligence Based,ANB,Open,Inspector
+ANB0151,5/31/2024,Gujarat,Surat,Opium,8,3306648,8,Intelligence Based,Joint Task Force,Open,Superintendent
+ANB0152,6/1/2024,Delhi,New Delhi,Opium,200,77962400,7,Raid,ANB,Closed,Superintendent
+ANB0153,6/2/2024,Delhi,New Delhi,Heroin,49,16760205,6,Checkpoint,ANB,Open,Inspector
+ANB0154,6/3/2024,Assam,Guwahati,Heroin,43,15754297,3,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0155,6/4/2024,Gujarat,Ahmedabad,Opium,133,60094188,6,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0156,6/5/2024,Kerala,Kochi,Ganja,181,73733970,7,Raid,ANB,Open,Inspector
+ANB0157,6/6/2024,Kerala,Kochi,Opium,196,81258856,7,Intelligence Based,ANB,Open,Superintendent
+ANB0158,6/7/2024,Kerala,Kochi,MDMA,13,4641572,6,Intelligence Based,ANB,Open,Inspector
+ANB0159,6/8/2024,Uttar Pradesh,Noida,MDMA,156,62054772,5,Intelligence Based,Joint Task Force,Open,Superintendent
+ANB0160,6/9/2024,Maharashtra,Mumbai,Heroin,60,24406860,6,Intelligence Based,ANB,Closed,Superintendent
+ANB0161,6/10/2024,Tamil Nadu,Chennai,Charas,76,28175784,5,Raid,ANB,Open,Superintendent
+ANB0162,6/11/2024,Gujarat,Ahmedabad,Charas,15,5778315,3,Intelligence Based,Joint Task Force,Open,Superintendent
+ANB0163,6/12/2024,Delhi,New Delhi,Cocaine,70,30051980,3,Raid,Joint Task Force,Open,Inspector
+ANB0164,6/13/2024,Assam,Guwahati,Heroin,120,48943320,1,Intelligence Based,ANB,Open,Superintendent
+ANB0165,6/14/2024,West Bengal,Kolkata,MDMA,125,55929375,4,Raid,ANB,Open,Inspector
+ANB0166,6/15/2024,Telangana,Hyderabad,Charas,33,11741631,3,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0167,6/16/2024,Assam,Guwahati,Cocaine,31,15422097,6,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0168,6/17/2024,Odisha,Bhubaneswar,MDMA,190,82270000,4,Intelligence Based,Joint Task Force,Closed,Inspector
+ANB0169,6/18/2024,Uttar Pradesh,Noida,MDMA,18,8872596,1,Intelligence Based,Joint Task Force,Open,Inspector
+ANB0170,6/19/2024,Gujarat,Ahmedabad,Heroin,42,18128670,5,Intelligence Based,ANB,Closed,Superintendent
+ANB0171,6/20/2024,Tamil Nadu,Chennai,Charas,131,53175258,7,Checkpoint,Joint Task Force,Open,Inspector
+ANB0172,6/21/2024,Karnataka,Bengaluru,Opium,83,29226956,8,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0173,6/22/2024,Gujarat,Ahmedabad,Ganja,47,17525830,7,Checkpoint,ANB,Closed,Inspector
+ANB0174,6/23/2024,Gujarat,Ahmedabad,Charas,154,63296310,7,Checkpoint,Joint Task Force,Open,Inspector
+ANB0175,6/24/2024,Odisha,Bhubaneswar,Charas,132,39876540,1,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0176,6/25/2024,Rajasthan,Udaipur,Cocaine,126,56124810,6,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0177,6/26/2024,Delhi,New Delhi,MDMA,16,4965168,3,Checkpoint,Joint Task Force,Closed,Superintendent
+ANB0178,6/27/2024,Telangana,Hyderabad,Cocaine,200,97970400,2,Intelligence Based,Joint Task Force,Closed,Inspector
+ANB0179,6/28/2024,Maharashtra,Pune,MDMA,43,15884071,8,Raid,Joint Task Force,Closed,Superintendent
+ANB0180,6/29/2024,West Bengal,Kolkata,Cocaine,29,12711193,2,Raid,Joint Task Force,Open,Superintendent
+ANB0181,6/30/2024,Telangana,Hyderabad,MDMA,94,31139474,2,Intelligence Based,Joint Task Force,Open,Superintendent
+ANB0182,7/1/2024,Rajasthan,Udaipur,Ganja,38,17530160,5,Raid,ANB,Closed,Superintendent
+ANB0183,7/2/2024,Odisha,Bhubaneswar,Charas,92,39704164,6,Checkpoint,ANB,Open,Inspector
+ANB0184,7/3/2024,Telangana,Hyderabad,Cocaine,114,47392536,3,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0185,7/4/2024,Tamil Nadu,Chennai,Charas,199,92220580,7,Checkpoint,ANB,Open,Inspector
+ANB0186,7/5/2024,Punjab,Ludhiana,Cocaine,123,52014609,1,Intelligence Based,Joint Task Force,Open,Inspector
+ANB0187,7/6/2024,Punjab,Ludhiana,Charas,159,53796378,1,Intelligence Based,ANB,Closed,Inspector
+ANB0188,7/7/2024,West Bengal,Kolkata,Ganja,53,16552589,6,Checkpoint,ANB,Closed,Superintendent
+ANB0189,7/8/2024,Uttar Pradesh,Lucknow,MDMA,164,54366492,2,Raid,ANB,Closed,Inspector
+ANB0190,7/9/2024,Kerala,Kochi,MDMA,153,55973826,6,Intelligence Based,ANB,Closed,Inspector
+ANB0191,7/10/2024,Assam,Guwahati,Heroin,183,63749514,5,Intelligence Based,Joint Task Force,Closed,Superintendent
+ANB0192,7/11/2024,Bihar,Patna,Heroin,110,48842090,8,Intelligence Based,ANB,Open,Inspector
+ANB0193,7/12/2024,Rajasthan,Udaipur,Cocaine,83,38846822,8,Intelligence Based,Joint Task Force,Closed,Inspector
+ANB0194,7/13/2024,Rajasthan,Udaipur,Opium,62,27442874,4,Intelligence Based,ANB,Open,Superintendent
+ANB0195,7/14/2024,Telangana,Hyderabad,Ganja,93,29332014,8,Raid,ANB,Closed,Inspector
+ANB0196,7/15/2024,Bihar,Patna,Cocaine,176,75813056,2,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0197,7/16/2024,Assam,Guwahati,Cocaine,158,52001118,7,Intelligence Based,Joint Task Force,Open,Inspector
+ANB0198,7/17/2024,Odisha,Bhubaneswar,Opium,85,26104605,3,Raid,Joint Task Force,Open,Inspector
+ANB0199,7/18/2024,Karnataka,Bengaluru,MDMA,78,30183582,8,Raid,ANB,Open,Inspector
+ANB0200,7/19/2024,Uttar Pradesh,Lucknow,Opium,192,62913408,6,Checkpoint,Joint Task Force,Closed,Superintendent
+ANB0201,7/20/2024,Delhi,New Delhi,Charas,120,50700720,7,Raid,ANB,Closed,Inspector
+ANB0202,7/21/2024,Tamil Nadu,Chennai,Cocaine,161,62546407,6,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0203,7/22/2024,Bihar,Patna,MDMA,31,10058694,5,Intelligence Based,ANB,Closed,Inspector
+ANB0204,7/23/2024,Punjab,Amritsar,Ganja,74,31790548,2,Intelligence Based,Joint Task Force,Closed,Inspector
+ANB0205,7/24/2024,Uttar Pradesh,Lucknow,Cocaine,95,45093365,5,Intelligence Based,ANB,Open,Superintendent
+ANB0206,7/25/2024,Gujarat,Surat,Cocaine,50,20526150,7,Raid,ANB,Open,Inspector
+ANB0207,7/26/2024,Maharashtra,Mumbai,Charas,147,67693647,5,Raid,Joint Task Force,Open,Inspector
+ANB0208,7/27/2024,West Bengal,Kolkata,Opium,38,17482736,6,Intelligence Based,Joint Task Force,Open,Inspector
+ANB0209,7/28/2024,Rajasthan,Jaipur,MDMA,98,44344020,5,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0210,7/29/2024,Tamil Nadu,Chennai,Charas,10,4159890,4,Raid,ANB,Open,Inspector
+ANB0211,7/30/2024,Tamil Nadu,Chennai,MDMA,19,8248869,8,Raid,ANB,Closed,Inspector
+ANB0212,7/31/2024,Madhya Pradesh,Indore,Cocaine,15,6552390,2,Checkpoint,ANB,Open,Inspector
+ANB0213,8/1/2024,Maharashtra,Pune,Ganja,98,41646668,4,Raid,ANB,Open,Superintendent
+ANB0214,8/2/2024,Gujarat,Surat,Heroin,101,34474835,3,Intelligence Based,ANB,Open,Inspector
+ANB0215,8/3/2024,Telangana,Hyderabad,Charas,165,59319810,3,Raid,Joint Task Force,Open,Deputy Commissioner
+ANB0216,8/4/2024,Maharashtra,Mumbai,Heroin,44,17651524,3,Intelligence Based,Joint Task Force,Open,Superintendent
+ANB0217,8/5/2024,Maharashtra,Pune,Opium,160,74228640,3,Raid,ANB,Closed,Superintendent
+ANB0218,8/6/2024,Delhi,New Delhi,MDMA,31,10035320,1,Raid,Joint Task Force,Open,Deputy Commissioner
+ANB0219,8/7/2024,Punjab,Ludhiana,Heroin,56,18365536,2,Checkpoint,ANB,Open,Superintendent
+ANB0220,8/8/2024,Rajasthan,Udaipur,MDMA,46,15384286,5,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0221,8/9/2024,Uttar Pradesh,Lucknow,Charas,10,4995680,3,Raid,Joint Task Force,Open,Superintendent
+ANB0222,8/10/2024,Odisha,Bhubaneswar,MDMA,94,34909062,2,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0223,8/11/2024,Madhya Pradesh,Indore,MDMA,50,23937900,4,Checkpoint,Joint Task Force,Closed,Deputy Commissioner
+ANB0224,8/12/2024,Tamil Nadu,Chennai,Heroin,114,36564474,3,Intelligence Based,ANB,Closed,Superintendent
+ANB0225,8/13/2024,Gujarat,Ahmedabad,MDMA,187,88802934,6,Raid,Joint Task Force,Closed,Superintendent
+ANB0226,8/14/2024,Odisha,Bhubaneswar,Cocaine,34,10491006,4,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0227,8/15/2024,West Bengal,Kolkata,Opium,84,29827392,5,Checkpoint,ANB,Closed,Inspector
+ANB0228,8/16/2024,Rajasthan,Udaipur,Opium,65,26576745,7,Raid,ANB,Closed,Superintendent
+ANB0229,8/17/2024,West Bengal,Kolkata,Opium,43,17454517,3,Checkpoint,ANB,Open,Inspector
+ANB0230,8/18/2024,Kerala,Kochi,MDMA,161,57032801,6,Intelligence Based,ANB,Closed,Superintendent
+ANB0231,8/19/2024,Telangana,Hyderabad,Charas,12,5474112,2,Raid,ANB,Open,Superintendent
+ANB0232,8/20/2024,Madhya Pradesh,Indore,Heroin,13,4058223,3,Raid,Joint Task Force,Closed,Superintendent
+ANB0233,8/21/2024,Odisha,Bhubaneswar,Ganja,123,58160304,2,Checkpoint,Joint Task Force,Open,Inspector
+ANB0234,8/22/2024,West Bengal,Kolkata,Heroin,53,23652734,4,Raid,ANB,Open,Inspector
+ANB0235,8/23/2024,Telangana,Hyderabad,MDMA,129,41986920,7,Raid,Joint Task Force,Open,Superintendent
+ANB0236,8/24/2024,Punjab,Amritsar,Charas,12,5080296,6,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0237,8/25/2024,Kerala,Kochi,Ganja,181,64194365,5,Intelligence Based,ANB,Open,Inspector
+ANB0238,8/26/2024,Tamil Nadu,Chennai,Cocaine,127,54317265,4,Intelligence Based,ANB,Closed,Superintendent
+ANB0239,8/27/2024,Rajasthan,Jaipur,Opium,110,35435840,1,Raid,Joint Task Force,Closed,Superintendent
+ANB0240,8/28/2024,Uttar Pradesh,Noida,Heroin,86,35453156,6,Checkpoint,ANB,Closed,Superintendent
+ANB0241,8/29/2024,Delhi,New Delhi,MDMA,78,38276394,5,Intelligence Based,ANB,Closed,Inspector
+ANB0242,8/30/2024,Bihar,Patna,Charas,94,32778552,5,Checkpoint,ANB,Open,Inspector
+ANB0243,8/31/2024,Uttar Pradesh,Lucknow,Ganja,189,85197420,8,Raid,Joint Task Force,Open,Superintendent
+ANB0244,9/1/2024,Rajasthan,Udaipur,MDMA,51,17758914,3,Checkpoint,Joint Task Force,Open,Superintendent
+ANB0245,9/2/2024,Rajasthan,Udaipur,Charas,40,15275960,3,Intelligence Based,ANB,Open,Superintendent
+ANB0246,9/3/2024,Rajasthan,Udaipur,Ganja,142,67925132,7,Raid,ANB,Closed,Superintendent
+ANB0247,9/4/2024,Uttar Pradesh,Noida,Heroin,101,48963386,7,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0248,9/5/2024,Kerala,Kochi,Heroin,34,11844308,2,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0249,9/6/2024,Karnataka,Bengaluru,Ganja,87,38015868,4,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0250,9/7/2024,Uttar Pradesh,Noida,Heroin,167,53434823,4,Raid,ANB,Open,Superintendent
+ANB0251,9/8/2024,Gujarat,Surat,Cocaine,102,50537940,2,Checkpoint,Joint Task Force,Open,Deputy Commissioner
+ANB0252,9/9/2024,Maharashtra,Mumbai,Opium,40,16437240,5,Checkpoint,ANB,Closed,Superintendent
+ANB0253,9/10/2024,Punjab,Amritsar,MDMA,45,21581145,4,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0254,9/11/2024,Delhi,New Delhi,Heroin,75,35272950,4,Checkpoint,Joint Task Force,Open,Deputy Commissioner
+ANB0255,9/12/2024,Maharashtra,Pune,MDMA,95,45275480,3,Raid,Joint Task Force,Closed,Inspector
+ANB0256,9/13/2024,Punjab,Amritsar,MDMA,80,31958320,7,Checkpoint,Joint Task Force,Open,Inspector
+ANB0257,9/14/2024,Maharashtra,Pune,Cocaine,151,63129778,2,Intelligence Based,ANB,Open,Inspector
+ANB0258,9/15/2024,Telangana,Hyderabad,Charas,139,68522830,8,Intelligence Based,ANB,Closed,Superintendent
+ANB0259,9/16/2024,West Bengal,Kolkata,Opium,20,7235400,5,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0260,9/17/2024,Bihar,Patna,Opium,17,7821598,8,Checkpoint,ANB,Open,Superintendent
+ANB0261,9/18/2024,Tamil Nadu,Chennai,Heroin,164,52884260,4,Raid,Joint Task Force,Open,Deputy Commissioner
+ANB0262,9/19/2024,Rajasthan,Jaipur,Opium,183,70128894,1,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0263,9/20/2024,Punjab,Ludhiana,Cocaine,156,77010960,8,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0264,9/21/2024,West Bengal,Kolkata,MDMA,62,24598996,8,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0265,9/22/2024,Rajasthan,Jaipur,Heroin,133,64878597,3,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0266,9/23/2024,Gujarat,Surat,Opium,145,44666380,4,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0267,9/24/2024,Punjab,Amritsar,Cocaine,86,35146050,1,Intelligence Based,Joint Task Force,Closed,Inspector
+ANB0268,9/25/2024,Uttar Pradesh,Noida,Cocaine,12,3816684,7,Checkpoint,ANB,Closed,Inspector
+ANB0269,9/26/2024,Rajasthan,Jaipur,Charas,29,13963906,1,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0270,9/27/2024,Delhi,New Delhi,Charas,145,56198810,7,Intelligence Based,ANB,Closed,Inspector
+ANB0271,9/28/2024,Tamil Nadu,Chennai,MDMA,108,51254316,8,Checkpoint,Joint Task Force,Closed,Superintendent
+ANB0272,9/29/2024,Uttar Pradesh,Lucknow,Heroin,76,31376828,4,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0273,9/30/2024,Maharashtra,Pune,Cocaine,135,64635975,3,Intelligence Based,Joint Task Force,Closed,Inspector
+ANB0274,10/1/2024,Uttar Pradesh,Noida,Opium,122,44945532,3,Raid,ANB,Open,Inspector
+ANB0275,10/2/2024,West Bengal,Kolkata,Charas,194,92193262,5,Raid,ANB,Open,Deputy Commissioner
+ANB0276,10/3/2024,Maharashtra,Mumbai,Heroin,11,5275193,7,Checkpoint,ANB,Open,Inspector
+ANB0277,10/4/2024,Tamil Nadu,Chennai,Opium,147,69765465,8,Raid,Joint Task Force,Open,Inspector
+ANB0278,10/5/2024,Tamil Nadu,Chennai,Opium,110,54185230,5,Raid,Joint Task Force,Open,Deputy Commissioner
+ANB0279,10/6/2024,Odisha,Bhubaneswar,Heroin,196,65881088,1,Raid,ANB,Open,Inspector
+ANB0280,10/7/2024,Uttar Pradesh,Lucknow,Cocaine,6,2621082,7,Raid,ANB,Closed,Deputy Commissioner
+ANB0281,10/8/2024,Kerala,Kochi,Opium,72,27286128,2,Raid,Joint Task Force,Closed,Superintendent
+ANB0282,10/9/2024,Telangana,Hyderabad,MDMA,22,8544866,5,Checkpoint,Joint Task Force,Open,Deputy Commissioner
+ANB0283,10/10/2024,Rajasthan,Jaipur,Ganja,109,43603379,8,Checkpoint,Joint Task Force,Open,Deputy Commissioner
+ANB0284,10/11/2024,Kerala,Kochi,Charas,130,61335820,3,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0285,10/12/2024,West Bengal,Kolkata,Heroin,122,58837428,6,Intelligence Based,Joint Task Force,Closed,Superintendent
+ANB0286,10/13/2024,Assam,Guwahati,Ganja,149,69488385,1,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0287,10/14/2024,Gujarat,Ahmedabad,Heroin,85,27895810,2,Checkpoint,ANB,Open,Superintendent
+ANB0288,10/15/2024,Telangana,Hyderabad,Ganja,180,71953380,2,Intelligence Based,Joint Task Force,Open,Inspector
+ANB0289,10/16/2024,Rajasthan,Jaipur,Opium,52,22090952,6,Checkpoint,Joint Task Force,Closed,Superintendent
+ANB0290,10/17/2024,Telangana,Hyderabad,MDMA,85,41584975,5,Intelligence Based,ANB,Closed,Inspector
+ANB0291,10/18/2024,Karnataka,Bengaluru,Heroin,71,33947869,8,Checkpoint,ANB,Open,Inspector
+ANB0292,10/19/2024,Madhya Pradesh,Indore,Heroin,32,15844128,7,Raid,ANB,Open,Inspector
+ANB0293,10/20/2024,Karnataka,Bengaluru,Heroin,150,67826250,2,Intelligence Based,ANB,Open,Inspector
+ANB0294,10/21/2024,Rajasthan,Jaipur,Heroin,147,67471236,3,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0295,10/22/2024,Bihar,Patna,MDMA,50,22987150,8,Intelligence Based,ANB,Closed,Superintendent
+ANB0296,10/23/2024,West Bengal,Kolkata,Heroin,96,44947104,7,Raid,ANB,Open,Inspector
+ANB0297,10/24/2024,Delhi,New Delhi,Ganja,62,24611954,3,Checkpoint,Joint Task Force,Open,Superintendent
+ANB0298,10/25/2024,Rajasthan,Udaipur,Opium,186,76844412,6,Raid,ANB,Closed,Inspector
+ANB0299,10/26/2024,Kerala,Kochi,Ganja,115,49372145,2,Raid,Joint Task Force,Closed,Superintendent
+ANB0300,10/27/2024,Delhi,New Delhi,Heroin,157,47835702,2,Raid,ANB,Open,Superintendent
+ANB0301,10/28/2024,Rajasthan,Jaipur,Charas,180,89859420,4,Intelligence Based,ANB,Closed,Superintendent
+ANB0302,10/29/2024,Kerala,Kochi,Ganja,60,27389100,3,Raid,ANB,Closed,Deputy Commissioner
+ANB0303,10/30/2024,Kerala,Kochi,Ganja,142,55492038,3,Intelligence Based,ANB,Closed,Inspector
+ANB0304,10/31/2024,West Bengal,Kolkata,Heroin,185,70217860,4,Raid,ANB,Open,Deputy Commissioner
+ANB0305,11/1/2024,Tamil Nadu,Chennai,Opium,140,44712500,8,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0306,11/2/2024,Gujarat,Ahmedabad,Heroin,68,27684976,1,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0307,11/3/2024,West Bengal,Kolkata,Cocaine,74,30849712,3,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0308,11/4/2024,Uttar Pradesh,Lucknow,Heroin,58,22748354,6,Checkpoint,ANB,Closed,Superintendent
+ANB0309,11/5/2024,Kerala,Kochi,Ganja,45,15893325,3,Raid,ANB,Open,Inspector
+ANB0310,11/6/2024,Punjab,Amritsar,Charas,56,26008136,8,Checkpoint,ANB,Closed,Superintendent
+ANB0311,11/7/2024,Assam,Guwahati,Opium,34,14750186,3,Raid,ANB,Closed,Superintendent
+ANB0312,11/8/2024,Uttar Pradesh,Noida,Cocaine,7,3373881,7,Raid,ANB,Open,Superintendent
+ANB0313,11/9/2024,Tamil Nadu,Chennai,Ganja,35,12077205,6,Raid,Joint Task Force,Closed,Inspector
+ANB0314,11/10/2024,Madhya Pradesh,Indore,Cocaine,23,9270173,2,Intelligence Based,Joint Task Force,Closed,Superintendent
+ANB0315,11/11/2024,Punjab,Amritsar,Heroin,63,24829686,8,Raid,ANB,Open,Deputy Commissioner
+ANB0316,11/12/2024,Uttar Pradesh,Lucknow,Ganja,157,71972254,2,Raid,Joint Task Force,Closed,Inspector
+ANB0317,11/13/2024,Tamil Nadu,Chennai,Opium,113,42961018,1,Intelligence Based,ANB,Open,Inspector
+ANB0318,11/14/2024,Rajasthan,Udaipur,Charas,33,16474524,3,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0319,11/15/2024,Telangana,Hyderabad,Cocaine,193,58856508,6,Checkpoint,ANB,Open,Superintendent
+ANB0320,11/16/2024,Gujarat,Ahmedabad,Ganja,59,22355631,4,Checkpoint,ANB,Closed,Inspector
+ANB0321,11/17/2024,Madhya Pradesh,Indore,Opium,118,54745982,8,Raid,ANB,Open,Inspector
+ANB0322,11/18/2024,West Bengal,Kolkata,Charas,18,8255466,7,Intelligence Based,ANB,Open,Inspector
+ANB0323,11/19/2024,Rajasthan,Udaipur,Opium,68,28068156,3,Checkpoint,ANB,Open,Superintendent
+ANB0324,11/20/2024,Uttar Pradesh,Lucknow,Charas,187,58636094,4,Raid,ANB,Closed,Inspector
+ANB0325,11/21/2024,Gujarat,Ahmedabad,Opium,51,23639622,8,Raid,Joint Task Force,Closed,Inspector
+ANB0326,11/22/2024,Kerala,Kochi,Charas,88,43207824,3,Intelligence Based,Joint Task Force,Closed,Inspector
+ANB0327,11/23/2024,Rajasthan,Udaipur,Heroin,95,31747575,4,Raid,ANB,Closed,Superintendent
+ANB0328,11/24/2024,Tamil Nadu,Chennai,Ganja,21,9865296,1,Raid,ANB,Closed,Inspector
+ANB0329,11/25/2024,Karnataka,Bengaluru,Charas,132,64113852,6,Intelligence Based,Joint Task Force,Closed,Inspector
+ANB0330,11/26/2024,Madhya Pradesh,Indore,Ganja,6,2782128,5,Intelligence Based,Joint Task Force,Closed,Inspector
+ANB0331,11/27/2024,Uttar Pradesh,Lucknow,Ganja,134,43802590,7,Intelligence Based,ANB,Closed,Superintendent
+ANB0332,11/28/2024,Bihar,Patna,Cocaine,26,8767070,2,Raid,ANB,Open,Superintendent
+ANB0333,11/29/2024,Bihar,Patna,Ganja,30,9463380,4,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0334,11/30/2024,Gujarat,Surat,Cocaine,152,46098864,8,Raid,ANB,Open,Inspector
+ANB0335,12/1/2024,Odisha,Bhubaneswar,Cocaine,121,45764136,3,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0336,12/2/2024,Tamil Nadu,Chennai,Cocaine,139,54207915,5,Raid,Joint Task Force,Open,Inspector
+ANB0337,12/3/2024,Telangana,Hyderabad,Ganja,15,5007480,6,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0338,12/4/2024,Kerala,Kochi,Ganja,128,61864448,6,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0339,12/5/2024,Karnataka,Bengaluru,Opium,49,18709474,4,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0340,12/6/2024,Karnataka,Bengaluru,Charas,24,11483040,5,Intelligence Based,ANB,Open,Superintendent
+ANB0341,12/7/2024,Odisha,Bhubaneswar,Ganja,85,38556765,7,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0342,12/8/2024,Punjab,Ludhiana,Cocaine,147,56189280,1,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0343,12/9/2024,Bihar,Patna,Ganja,200,97322800,5,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0344,12/10/2024,Uttar Pradesh,Noida,Opium,8,3049016,7,Raid,ANB,Closed,Inspector
+ANB0345,12/11/2024,Tamil Nadu,Chennai,Heroin,167,60660913,8,Checkpoint,Joint Task Force,Open,Superintendent
+ANB0346,12/12/2024,Maharashtra,Mumbai,Heroin,101,39548570,8,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0347,12/13/2024,Karnataka,Bengaluru,Cocaine,146,52056300,5,Raid,ANB,Open,Deputy Commissioner
+ANB0348,12/14/2024,Delhi,New Delhi,Opium,153,69492600,5,Raid,Joint Task Force,Open,Deputy Commissioner
+ANB0349,12/15/2024,Uttar Pradesh,Lucknow,Charas,53,22722266,2,Intelligence Based,ANB,Open,Inspector
+ANB0350,12/16/2024,Delhi,New Delhi,MDMA,125,52635250,3,Intelligence Based,ANB,Closed,Inspector
+ANB0351,12/17/2024,Punjab,Amritsar,Cocaine,24,8130432,4,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0352,12/18/2024,Telangana,Hyderabad,Opium,175,66285975,3,Raid,Joint Task Force,Closed,Superintendent
+ANB0353,12/19/2024,Madhya Pradesh,Indore,Heroin,43,15115876,5,Checkpoint,Joint Task Force,Open,Deputy Commissioner
+ANB0354,12/20/2024,Bihar,Patna,Charas,94,42876032,6,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0355,12/21/2024,Rajasthan,Jaipur,Opium,137,62616946,4,Raid,Joint Task Force,Open,Deputy Commissioner
+ANB0356,12/22/2024,Punjab,Ludhiana,Ganja,180,68378400,1,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0357,12/23/2024,Uttar Pradesh,Noida,Cocaine,166,60610916,2,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0358,12/24/2024,Delhi,New Delhi,Cocaine,74,25058324,7,Intelligence Based,ANB,Open,Inspector
+ANB0359,12/25/2024,Telangana,Hyderabad,Opium,83,34501938,1,Intelligence Based,ANB,Closed,Superintendent
+ANB0360,12/26/2024,Gujarat,Surat,Cocaine,68,33301776,4,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0361,12/27/2024,Madhya Pradesh,Indore,Charas,17,7577053,4,Raid,ANB,Closed,Inspector
+ANB0362,12/28/2024,Tamil Nadu,Chennai,Charas,199,87215730,6,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0363,12/29/2024,Karnataka,Bengaluru,Cocaine,191,77727450,4,Checkpoint,ANB,Open,Superintendent
+ANB0364,12/30/2024,Delhi,New Delhi,Heroin,31,10264720,3,Checkpoint,Joint Task Force,Open,Deputy Commissioner
+ANB0365,12/31/2024,Maharashtra,Pune,Cocaine,158,63260672,4,Raid,ANB,Open,Deputy Commissioner
+ANB0366,1/1/2025,Telangana,Hyderabad,Heroin,139,43781803,2,Raid,Joint Task Force,Open,Inspector
+ANB0367,1/2/2025,Bihar,Patna,Cocaine,151,59289697,1,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0368,1/3/2025,Punjab,Amritsar,Heroin,195,63255660,4,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0369,1/4/2025,Maharashtra,Pune,MDMA,154,53748772,7,Checkpoint,ANB,Open,Superintendent
+ANB0370,1/5/2025,Uttar Pradesh,Noida,Cocaine,25,8647875,8,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0371,1/6/2025,Tamil Nadu,Chennai,MDMA,128,50377344,3,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0372,1/7/2025,Tamil Nadu,Chennai,Ganja,133,61633397,6,Intelligence Based,ANB,Open,Inspector
+ANB0373,1/8/2025,Tamil Nadu,Chennai,Cocaine,161,63477792,5,Checkpoint,Joint Task Force,Open,Superintendent
+ANB0374,1/9/2025,Delhi,New Delhi,Heroin,125,56328875,7,Raid,Joint Task Force,Closed,Superintendent
+ANB0375,1/10/2025,Bihar,Patna,Ganja,136,41421928,5,Raid,ANB,Closed,Inspector
+ANB0376,1/11/2025,Karnataka,Bengaluru,MDMA,160,63083680,7,Checkpoint,Joint Task Force,Closed,Superintendent
+ANB0377,1/12/2025,West Bengal,Kolkata,Heroin,59,19809958,6,Checkpoint,ANB,Open,Inspector
+ANB0378,1/13/2025,Kerala,Kochi,Charas,114,41660502,6,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0379,1/14/2025,West Bengal,Kolkata,Heroin,169,82798677,8,Intelligence Based,ANB,Open,Deputy Commissioner
+ANB0380,1/15/2025,Uttar Pradesh,Noida,Ganja,182,68317886,5,Raid,Joint Task Force,Open,Inspector
+ANB0381,1/16/2025,Madhya Pradesh,Indore,Ganja,190,81306890,8,Raid,ANB,Open,Deputy Commissioner
+ANB0382,1/17/2025,Madhya Pradesh,Indore,Cocaine,102,34911336,1,Checkpoint,Joint Task Force,Open,Deputy Commissioner
+ANB0383,1/18/2025,Uttar Pradesh,Noida,Charas,6,2411190,8,Raid,Joint Task Force,Closed,Inspector
+ANB0384,1/19/2025,Bihar,Patna,Ganja,196,60871524,4,Raid,Joint Task Force,Closed,Inspector
+ANB0385,1/20/2025,Delhi,New Delhi,Heroin,6,2343084,2,Raid,Joint Task Force,Open,Deputy Commissioner
+ANB0386,1/21/2025,Karnataka,Bengaluru,Heroin,138,44098176,3,Checkpoint,ANB,Closed,Superintendent
+ANB0387,1/22/2025,Karnataka,Bengaluru,Opium,187,78024067,4,Raid,ANB,Closed,Superintendent
+ANB0388,1/23/2025,Assam,Guwahati,Charas,176,81530416,1,Intelligence Based,Joint Task Force,Open,Inspector
+ANB0389,1/24/2025,Telangana,Hyderabad,Cocaine,111,38553297,1,Checkpoint,Joint Task Force,Closed,Deputy Commissioner
+ANB0390,1/25/2025,Odisha,Bhubaneswar,Cocaine,194,89730044,3,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0391,1/26/2025,Maharashtra,Pune,Opium,192,70563072,5,Intelligence Based,ANB,Closed,Superintendent
+ANB0392,1/27/2025,Maharashtra,Pune,Heroin,128,55691776,2,Raid,Joint Task Force,Open,Inspector
+ANB0393,1/28/2025,Karnataka,Bengaluru,Charas,139,57687085,7,Raid,Joint Task Force,Open,Deputy Commissioner
+ANB0394,1/29/2025,Karnataka,Bengaluru,Opium,189,65736090,1,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0395,1/30/2025,Gujarat,Ahmedabad,Cocaine,35,10786650,3,Checkpoint,ANB,Open,Superintendent
+ANB0396,1/31/2025,Delhi,New Delhi,Cocaine,39,17637789,1,Intelligence Based,ANB,Closed,Inspector
+ANB0397,2/1/2025,Karnataka,Bengaluru,Charas,189,72648198,2,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0398,2/2/2025,Gujarat,Surat,Ganja,184,69173512,5,Checkpoint,ANB,Closed,Superintendent
+ANB0399,2/3/2025,West Bengal,Kolkata,Cocaine,5,2012530,3,Checkpoint,ANB,Closed,Inspector
+ANB0400,2/4/2025,Punjab,Amritsar,Opium,22,7134402,7,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0401,2/5/2025,Telangana,Hyderabad,Ganja,111,53092410,8,Raid,Joint Task Force,Open,Inspector
+ANB0402,2/6/2025,Kerala,Kochi,MDMA,109,38063563,3,Intelligence Based,ANB,Closed,Superintendent
+ANB0403,2/7/2025,Delhi,New Delhi,Charas,54,19109142,6,Checkpoint,ANB,Closed,Inspector
+ANB0404,2/8/2025,Uttar Pradesh,Noida,Opium,47,18625113,5,Raid,Joint Task Force,Closed,Superintendent
+ANB0405,2/9/2025,Delhi,New Delhi,Charas,36,16951644,5,Checkpoint,ANB,Closed,Inspector
+ANB0406,2/10/2025,Gujarat,Surat,Charas,191,75276729,4,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0407,2/11/2025,Punjab,Amritsar,Ganja,167,50313426,4,Raid,Joint Task Force,Open,Superintendent
+ANB0408,2/12/2025,Kerala,Kochi,Heroin,190,80203750,6,Raid,Joint Task Force,Open,Superintendent
+ANB0409,2/13/2025,Punjab,Ludhiana,Charas,111,48991626,7,Intelligence Based,ANB,Open,Deputy Commissioner
+ANB0410,2/14/2025,Kerala,Kochi,MDMA,151,67332561,3,Intelligence Based,ANB,Closed,Superintendent
+ANB0411,2/15/2025,Odisha,Bhubaneswar,Heroin,21,9522261,4,Intelligence Based,ANB,Closed,Superintendent
+ANB0412,2/16/2025,Punjab,Amritsar,Ganja,169,73856887,8,Raid,Joint Task Force,Closed,Superintendent
+ANB0413,2/17/2025,Tamil Nadu,Chennai,MDMA,87,34826709,6,Checkpoint,Joint Task Force,Open,Superintendent
+ANB0414,2/18/2025,Telangana,Hyderabad,MDMA,69,24722355,2,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0415,2/19/2025,Odisha,Bhubaneswar,Charas,8,3108992,5,Raid,Joint Task Force,Open,Inspector
+ANB0416,2/20/2025,Delhi,New Delhi,MDMA,51,22990443,2,Raid,Joint Task Force,Open,Inspector
+ANB0417,2/21/2025,Karnataka,Bengaluru,Cocaine,152,75316608,5,Checkpoint,Joint Task Force,Closed,Deputy Commissioner
+ANB0418,2/22/2025,Odisha,Bhubaneswar,Ganja,16,7134752,6,Checkpoint,Joint Task Force,Closed,Superintendent
+ANB0419,2/23/2025,Assam,Guwahati,Cocaine,193,88501308,7,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0420,2/24/2025,West Bengal,Kolkata,Charas,62,24701668,5,Checkpoint,Joint Task Force,Open,Deputy Commissioner
+ANB0421,2/25/2025,Karnataka,Bengaluru,Cocaine,153,58085532,7,Checkpoint,ANB,Open,Inspector
+ANB0422,2/26/2025,Tamil Nadu,Chennai,Cocaine,139,55992953,6,Raid,ANB,Open,Superintendent
+ANB0423,2/27/2025,Madhya Pradesh,Indore,Charas,162,71908884,2,Raid,Joint Task Force,Closed,Superintendent
+ANB0424,2/28/2025,Bihar,Patna,Opium,157,75454043,6,Checkpoint,Joint Task Force,Closed,Superintendent
+ANB0425,3/1/2025,Uttar Pradesh,Lucknow,Heroin,184,70120008,6,Checkpoint,ANB,Closed,Superintendent
+ANB0426,3/2/2025,Assam,Guwahati,Ganja,136,62699264,3,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0427,3/3/2025,Bihar,Patna,Cocaine,48,23756688,7,Intelligence Based,Joint Task Force,Open,Inspector
+ANB0428,3/4/2025,West Bengal,Kolkata,Charas,175,62546750,5,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0429,3/5/2025,Tamil Nadu,Chennai,Heroin,72,28258056,4,Raid,Joint Task Force,Closed,Superintendent
+ANB0430,3/6/2025,Rajasthan,Jaipur,Ganja,165,67704450,3,Raid,ANB,Open,Inspector
+ANB0431,3/7/2025,Karnataka,Bengaluru,Cocaine,89,33367969,5,Intelligence Based,ANB,Closed,Superintendent
+ANB0432,3/8/2025,Telangana,Hyderabad,Opium,87,40310754,3,Raid,ANB,Open,Inspector
+ANB0433,3/9/2025,Assam,Guwahati,Cocaine,124,42438876,5,Checkpoint,Joint Task Force,Closed,Inspector
+ANB0434,3/10/2025,Uttar Pradesh,Noida,Heroin,82,29078676,8,Raid,Joint Task Force,Open,Deputy Commissioner
+ANB0435,3/11/2025,Rajasthan,Jaipur,Opium,34,15402510,3,Raid,ANB,Open,Deputy Commissioner
+ANB0436,3/12/2025,Odisha,Bhubaneswar,Charas,68,32249816,8,Raid,ANB,Open,Inspector
+ANB0437,3/13/2025,West Bengal,Kolkata,Opium,12,4656936,3,Raid,ANB,Open,Inspector
+ANB0438,3/14/2025,West Bengal,Kolkata,Heroin,52,20632820,5,Checkpoint,ANB,Closed,Superintendent
+ANB0439,3/15/2025,Uttar Pradesh,Lucknow,Heroin,9,3042963,7,Raid,ANB,Closed,Superintendent
+ANB0440,3/16/2025,West Bengal,Kolkata,Charas,164,62230784,4,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0441,3/17/2025,Telangana,Hyderabad,Heroin,172,61939264,3,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0442,3/18/2025,Gujarat,Ahmedabad,Ganja,199,97993570,6,Checkpoint,ANB,Closed,Superintendent
+ANB0443,3/19/2025,West Bengal,Kolkata,Ganja,42,19257756,6,Checkpoint,ANB,Open,Superintendent
+ANB0444,3/20/2025,Uttar Pradesh,Lucknow,Cocaine,186,61489926,5,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0445,3/21/2025,Maharashtra,Pune,MDMA,88,42859344,4,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0446,3/22/2025,Uttar Pradesh,Lucknow,Cocaine,93,37259799,5,Checkpoint,ANB,Open,Inspector
+ANB0447,3/23/2025,Gujarat,Ahmedabad,Charas,69,25357017,3,Intelligence Based,Joint Task Force,Open,Inspector
+ANB0448,3/24/2025,Karnataka,Bengaluru,Ganja,106,37819952,6,Intelligence Based,Joint Task Force,Open,Inspector
+ANB0449,3/25/2025,Kerala,Kochi,Charas,155,49365175,5,Raid,ANB,Closed,Inspector
+ANB0450,3/26/2025,Odisha,Bhubaneswar,Cocaine,197,84005725,4,Raid,Joint Task Force,Closed,Inspector
+ANB0451,3/27/2025,Assam,Guwahati,MDMA,121,41796062,5,Checkpoint,Joint Task Force,Open,Deputy Commissioner
+ANB0452,3/28/2025,Odisha,Bhubaneswar,Cocaine,110,54326030,2,Checkpoint,Joint Task Force,Closed,Superintendent
+ANB0453,3/29/2025,Telangana,Hyderabad,Cocaine,72,29936016,8,Checkpoint,ANB,Open,Superintendent
+ANB0454,3/30/2025,Bihar,Patna,Opium,125,39843000,6,Intelligence Based,ANB,Open,Inspector
+ANB0455,3/31/2025,Odisha,Bhubaneswar,Heroin,32,12119296,6,Raid,Joint Task Force,Closed,Inspector
+ANB0456,4/1/2025,Madhya Pradesh,Indore,Cocaine,67,30650222,7,Intelligence Based,ANB,Open,Deputy Commissioner
+ANB0457,4/2/2025,Assam,Guwahati,Charas,71,33046950,4,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0458,4/3/2025,Gujarat,Surat,Heroin,119,46091437,8,Checkpoint,Joint Task Force,Closed,Deputy Commissioner
+ANB0459,4/4/2025,Bihar,Patna,MDMA,121,45407307,4,Raid,Joint Task Force,Closed,Superintendent
+ANB0460,4/5/2025,Kerala,Kochi,Heroin,33,11204226,8,Raid,Joint Task Force,Open,Superintendent
+ANB0461,4/6/2025,Punjab,Amritsar,Ganja,196,62452656,7,Checkpoint,Joint Task Force,Closed,Deputy Commissioner
+ANB0462,4/7/2025,Madhya Pradesh,Indore,Cocaine,24,10347432,1,Intelligence Based,ANB,Closed,Superintendent
+ANB0463,4/8/2025,Maharashtra,Pune,Charas,39,11931777,4,Raid,ANB,Closed,Deputy Commissioner
+ANB0464,4/9/2025,Odisha,Bhubaneswar,Opium,175,86347975,6,Checkpoint,ANB,Closed,Inspector
+ANB0465,4/10/2025,Madhya Pradesh,Indore,Charas,109,50078306,8,Intelligence Based,ANB,Open,Inspector
+ANB0466,4/11/2025,Telangana,Hyderabad,Opium,97,42236128,3,Intelligence Based,ANB,Closed,Inspector
+ANB0467,4/12/2025,Gujarat,Surat,Opium,148,47823092,8,Raid,ANB,Closed,Deputy Commissioner
+ANB0468,4/13/2025,Punjab,Ludhiana,Charas,161,57570058,6,Checkpoint,ANB,Closed,Superintendent
+ANB0469,4/14/2025,Gujarat,Surat,Heroin,198,73921716,8,Checkpoint,ANB,Closed,Inspector
+ANB0470,4/15/2025,Telangana,Hyderabad,MDMA,176,78765808,2,Checkpoint,ANB,Open,Deputy Commissioner
+ANB0471,4/16/2025,Punjab,Amritsar,Ganja,126,42527646,3,Raid,Joint Task Force,Closed,Inspector
+ANB0472,4/17/2025,Tamil Nadu,Chennai,Cocaine,94,45876230,1,Raid,Joint Task Force,Open,Deputy Commissioner
+ANB0473,4/18/2025,Punjab,Ludhiana,Cocaine,162,51170130,6,Intelligence Based,Joint Task Force,Closed,Deputy Commissioner
+ANB0474,4/19/2025,Kerala,Kochi,Ganja,103,35418816,2,Checkpoint,Joint Task Force,Closed,Deputy Commissioner
+ANB0475,4/20/2025,Bihar,Patna,Ganja,199,77056183,1,Intelligence Based,ANB,Closed,Deputy Commissioner
+ANB0476,4/21/2025,Uttar Pradesh,Lucknow,Ganja,37,12209149,5,Intelligence Based,ANB,Open,Deputy Commissioner
+ANB0477,4/22/2025,Maharashtra,Pune,Heroin,88,39483488,4,Intelligence Based,Joint Task Force,Open,Deputy Commissioner
+ANB0478,4/23/2025,Kerala,Kochi,MDMA,122,39929624,5,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0479,4/24/2025,Telangana,Hyderabad,Cocaine,133,50481214,2,Raid,Joint Task Force,Open,Superintendent
+ANB0480,4/25/2025,Kerala,Kochi,Heroin,146,51717288,5,Checkpoint,Joint Task Force,Open,Deputy Commissioner
+ANB0481,4/26/2025,West Bengal,Kolkata,Ganja,111,48517656,6,Intelligence Based,Joint Task Force,Closed,Superintendent
+ANB0482,4/27/2025,Assam,Guwahati,Charas,117,45858384,5,Checkpoint,ANB,Closed,Inspector
+ANB0483,4/28/2025,Gujarat,Ahmedabad,Ganja,73,36376484,6,Intelligence Based,Joint Task Force,Open,Inspector
+ANB0484,4/29/2025,Maharashtra,Pune,Heroin,62,22167108,3,Raid,ANB,Open,Deputy Commissioner
+ANB0485,4/30/2025,Madhya Pradesh,Indore,Heroin,18,5618826,4,Raid,ANB,Closed,Superintendent
+ANB0486,5/1/2025,Tamil Nadu,Chennai,Charas,72,27171936,1,Raid,ANB,Open,Inspector
+ANB0487,5/2/2025,Gujarat,Surat,Opium,94,38987816,7,Intelligence Based,Joint Task Force,Open,Superintendent
+ANB0488,5/3/2025,Punjab,Amritsar,Charas,97,31505212,5,Checkpoint,ANB,Closed,Deputy Commissioner
+ANB0489,5/4/2025,Kerala,Kochi,Charas,85,34893435,2,Raid,Joint Task Force,Closed,Superintendent
+ANB0490,5/5/2025,Tamil Nadu,Chennai,Opium,140,64410640,5,Intelligence Based,ANB,Open,Superintendent
+ANB0491,5/6/2025,Telangana,Hyderabad,Charas,163,80309937,3,Raid,ANB,Closed,Superintendent
+ANB0492,5/7/2025,Delhi,New Delhi,Opium,132,43786248,2,Raid,Joint Task Force,Open,Inspector
+ANB0493,5/8/2025,Kerala,Kochi,Ganja,88,42036456,3,Raid,Joint Task Force,Closed,Deputy Commissioner
+ANB0494,5/9/2025,Maharashtra,Pune,Charas,164,49803192,4,Raid,Joint Task Force,Closed,Superintendent
+ANB0495,5/10/2025,Telangana,Hyderabad,Opium,27,9331335,8,Raid,Joint Task Force,Open,Deputy Commissioner
+ANB0496,5/11/2025,Uttar Pradesh,Noida,MDMA,50,23155550,3,Intelligence Based,ANB,Open,Deputy Commissioner
+ANB0497,5/12/2025,West Bengal,Kolkata,Ganja,127,61285755,2,Raid,ANB,Closed,Superintendent
+ANB0498,5/13/2025,Uttar Pradesh,Lucknow,Charas,118,57511430,5,Intelligence Based,ANB,Closed,Superintendent
+ANB0499,5/14/2025,Rajasthan,Udaipur,Ganja,23,7993328,6,Checkpoint,Joint Task Force,Open,Inspector
+ANB0500,5/15/2025,Karnataka,Bengaluru,Charas,166,59967334,7,Raid,ANB,Open,Superintendent
